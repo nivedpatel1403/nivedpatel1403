@@ -12,11 +12,6 @@ I'm currently learning
 ![](https://nirzak-streak-stats.vercel.app/?user=nivedpatel1403&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedpatel1403&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
 <!--
 **nivedpatel1403/nivedpatel1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
